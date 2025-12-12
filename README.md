@@ -32,7 +32,11 @@ This repository contains the code and resources for detecting bus stops using GP
 
 ```bash
 
-  git clone \[https://github.com/YOUR\_USERNAME/bus-stop-detection-telematics.git](https://github.com/Kausik-Jha/bus-stop-detection-  telematics.git)
+  git clone https://github.com/Kausik-Jha/bus-stop-detection-  telematics.git)
 
 cd bus-stop-detection-telematics
 
+2. Analysis:
+   The analysis is located in "notebooks/BusStopIdentification_ChargePoint.ipynb.
+## Presentation
+High level presentation slides
